@@ -1,5 +1,5 @@
 # Helloworld
-#python 3
+## python 3
 a=1
 sum=0
 fact=1
@@ -10,3 +10,4 @@ if n%2!=0:
         fact=fact*y
    sum = a+sum
    a=(a**x)/fact
+print(sum)
